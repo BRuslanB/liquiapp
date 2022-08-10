@@ -1,0 +1,1 @@
+ALTER TABLE items ADD CONSTRAINT items_categories_id_fk FOREIGN KEY (category_id) REFERENCES categories;

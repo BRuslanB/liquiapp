@@ -1,0 +1,2 @@
+INSERT INTO categories (name) VALUES ('Phones'), ('TV'), ('Electronics'),('Mobile');
+INSERT INTO items (name, price, amount, description, category_id) VALUES ('Iphone 13', 400000.00, 10, 'Iphone 13 model by 2022',1), ('Iphone 11', 200000.00, 15, 'Iphone 11 model by 2020', 1), ('Iphone 12', 350000.00, 50, 'Iphone 12 model by 2021', 1);
